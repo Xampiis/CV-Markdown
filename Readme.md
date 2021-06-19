@@ -19,3 +19,18 @@
 * Projeto para finalizar meu Desktop (em andamento)
 * Projeto para conseguir um trabalho na área de desenvolvimento (em andamento)
 * Projeto de finalizar a Pós-graduação (em andamento)
+
+## Redes sociais
+
+* [Linkedin](https://www.linkedin.com/in/bruno-jacomini-b3916a17a/)
+
+* [GitHub](https://github.com/Xampiis)
+
+* [instagram](https://www.instagram.com/brunoexd/)
+
+## Informações adicionais
+
+* Português nativo
+
+* Inglês intermediário
+
