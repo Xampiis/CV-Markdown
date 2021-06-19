@@ -47,3 +47,9 @@
 * Node, React, Laravel
 * MongoDB, Postgres, MySQL
 * HTML, CSS, GIT, NPM
+
+## Participação em Eventos
+
+* Next Level Week
+* Semana Omnistack
+* TDC
