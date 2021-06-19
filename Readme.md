@@ -41,3 +41,9 @@
 * Typescript
 * React.js 
 * Node.js
+
+## Conhecimentos
+
+* Node, React, Laravel
+* MongoDB, Postgres, MySQL
+* HTML, CSS, GIT, NPM
